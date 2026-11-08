@@ -1,3 +1,5 @@
+> **Note:** This repository serves as a professional showcase (including architecture overview, process flow, and demonstration video). The core enterprise codebase is hosted within a private organization repository for confidentiality.
+
 # Orchot
 
 A classroom system for a guided group project. Students move through a fixed process on their screens: define a challenge, choose an idea, design a product, send it to the lab machines, and finish with a personal summary. The teacher runs the lesson from a control panel: processes, screens, goals, timers, budget, the content library, and the materials catalog.
